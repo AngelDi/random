@@ -1,0 +1,1 @@
+//Math.random() devuelve numero aleatorio  entre 0 y 1.
